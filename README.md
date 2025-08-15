@@ -2,6 +2,9 @@
 
 A command-line chess game built with Ruby as a project for The Odin Project. This project aims to demonstrate object-oriented programming principles and a solid understanding of Ruby syntax by creating a playable, two-player chess game.
 
+### Screenshot
+![Screenshot](screenshot.png)
+
 ### Features
 
 * **Two-Player Gameplay:** Play a classic game of chess against a friend on the command line.
